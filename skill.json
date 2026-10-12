@@ -4,5 +4,8 @@
   "description": "Audits OAuth 2.1 permission scopes for remote MCP servers and enforces least-privilege access policies",
   "entrypoint": "client.py",
   "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
   "license": "MIT"
 }
